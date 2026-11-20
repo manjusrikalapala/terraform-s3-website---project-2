@@ -1,3 +1,4 @@
+
 # Host a Static Website on Amazon S3 using Terraform
 
 ## Project Overview
@@ -196,3 +197,5 @@ Advanced App Engineering Analyst
 ## Conclusion
 
 This project successfully demonstrates the deployment of a static website on Amazon S3 using Terraform. It highlights the practical implementation of Infrastructure as Code (IaC) principles by automating cloud resource provisioning and website deployment on AWS.
+=======
+# terraform-s3-website---project-2
